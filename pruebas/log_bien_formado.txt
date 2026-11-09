@@ -1,0 +1,6 @@
+[INFO] 2025-01-10 Aplicación iniciada
+[INFO] 2025-01-10 Usuario inició sesión
+[WARNING] 2025-01-11 Intento de acceso fallido
+[ERROR] 2025-01-11 No se pudo conectar a la base de datos
+[INFO] 2025-01-12 Operación completada
+[WARNING] 2024-02-29 Certificado próximo a vencer

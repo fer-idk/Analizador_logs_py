@@ -1,0 +1,34 @@
+========================================================
+               ANALIZADOR DE LOGS
+========================================================
+Archivo: pruebas/log_con_errores.txt
+Total de eventos analizados: 10
+Eventos válidos: 3
+Líneas mal formateadas o incompletas: 7
+Eventos por severidad (incluye líneas incompletas):
+  INFO    : 2
+  WARNING : 2
+  ERROR   : 3
+  SIN NIVEL: 3
+Estado de las fechas:
+  Válida  : 5
+  Inválida: 2
+  Ausente : 3
+Líneas vacías ignoradas: 0
+
+DETALLE DE LÍNEAS CON PROBLEMAS
+  Línea 2: [ERROR] 2025-02-30 Fecha imposible
+    Motivo(s): fecha inválida (formato o calendario)
+  Línea 3: [WARNING] Contraseña incorrecta
+    Motivo(s): fecha obligatoria ausente
+  Línea 4: [DEBUG] 2025-01-11 Nivel no permitido
+    Motivo(s): severidad desconocida: DEBUG
+  Línea 5: [INFO] 2025-01-12
+    Motivo(s): mensaje ausente
+  Línea 6: Texto sin formato
+    Motivo(s): encabezado de severidad ausente o mal formado; fecha obligatoria ausente; mensaje ausente
+  Línea 7: (vacía)
+    Motivo(s): encabezado de severidad ausente o mal formado; fecha obligatoria ausente; mensaje ausente
+  Línea 8: [ERROR] 2025/01/13 Formato no permitido
+    Motivo(s): fecha inválida (formato o calendario)
+========================================================

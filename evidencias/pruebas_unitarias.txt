@@ -1,0 +1,19 @@
+test_archivo_con_errores (test_analizador_logs.PruebasAnalizador.test_archivo_con_errores) ... ok
+test_archivo_correcto (test_analizador_logs.PruebasAnalizador.test_archivo_correcto) ... ok
+test_archivo_vacio (test_analizador_logs.PruebasAnalizador.test_archivo_vacio) ... ok
+test_configuracion_incorrecta (test_analizador_logs.PruebasAnalizador.test_configuracion_incorrecta) ... ok
+test_falta_fecha_obligatoria (test_analizador_logs.PruebasAnalizador.test_falta_fecha_obligatoria) ... ok
+test_fecha_inexistente (test_analizador_logs.PruebasAnalizador.test_fecha_inexistente) ... ok
+test_fecha_invalida_aun_opcional (test_analizador_logs.PruebasAnalizador.test_fecha_invalida_aun_opcional) ... ok
+test_fecha_opcional (test_analizador_logs.PruebasAnalizador.test_fecha_opcional) ... ok
+test_fecha_real (test_analizador_logs.PruebasAnalizador.test_fecha_real) ... ok
+test_formato_fecha_estricto (test_analizador_logs.PruebasAnalizador.test_formato_fecha_estricto) ... ok
+test_ignorar_linea_vacia (test_analizador_logs.PruebasAnalizador.test_ignorar_linea_vacia) ... ok
+test_linea_completa (test_analizador_logs.PruebasAnalizador.test_linea_completa) ... ok
+test_mensaje_ausente (test_analizador_logs.PruebasAnalizador.test_mensaje_ausente) ... ok
+test_severidad_desconocida (test_analizador_logs.PruebasAnalizador.test_severidad_desconocida) ... ok
+
+----------------------------------------------------------------------
+Ran 14 tests in 0.004s
+
+OK

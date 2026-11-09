@@ -1,0 +1,18 @@
+========================================================
+               ANALIZADOR DE LOGS
+========================================================
+Archivo: pruebas/log_bien_formado.txt
+Total de eventos analizados: 6
+Eventos válidos: 6
+Líneas mal formateadas o incompletas: 0
+Eventos por severidad (incluye líneas incompletas):
+  INFO    : 3
+  WARNING : 2
+  ERROR   : 1
+  SIN NIVEL: 0
+Estado de las fechas:
+  Válida  : 6
+  Inválida: 0
+  Ausente : 0
+Líneas vacías ignoradas: 0
+========================================================

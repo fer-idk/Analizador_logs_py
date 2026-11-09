@@ -1,0 +1,10 @@
+[INFO] 2025-01-10 Inicio correcto
+[ERROR] 2025-02-30 Fecha imposible
+[WARNING] Contraseña incorrecta
+[DEBUG] 2025-01-11 Nivel no permitido
+[INFO] 2025-01-12
+Texto sin formato
+
+[ERROR] 2025/01/13 Formato no permitido
+[WARNING] 2024-02-29 Fecha válida en año bisiesto
+[ERROR] 2025-01-14 Error de conexión
